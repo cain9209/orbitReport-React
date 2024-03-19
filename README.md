@@ -17,7 +17,7 @@ Using Node 18.16.10
 
 
 ## Running the Unit Tests
-The final task of the assignment is to run the unit tests. test
+The final task of the assignment is to run the unit tests. 
 
 However, the autograding tests will run every time you push your work up to your GitHub repo.  The autograded tests are in a single workflow, so you will not pass this workflow until you've completed the entire project.  
 
