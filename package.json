@@ -47,5 +47,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Using Node 18.16.10",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
 }
